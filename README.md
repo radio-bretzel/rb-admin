@@ -1,5 +1,6 @@
 # Radio Bretzel Admin
 
-Radio Bretzel Administration center. 
+Radio Bretzel Administration Module is an optional Radio Bretzel component
+permitting to federate multiple teams by system administrators.
 
-Handles authentication, authorization, and configurations of teams, users and stream servers.
+This project is under study.
